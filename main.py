@@ -4,7 +4,7 @@ from tkinter import *
 def bot_reply():
     question = queryField.get()
     textarea.insert(END,'You: '+question+'\n\n')
-    textarea.insert(END,'Alpha: ')
+    textarea.insert(END,'Alpha: '+'\n\n')
     queryField.delete(0,END)
 
 
