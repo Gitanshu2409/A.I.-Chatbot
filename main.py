@@ -1,20 +1,10 @@
 from tkinter import *
-from chatterbot import ChatBot
-from chatterbot.trainers import ListTrainer
-
-bot = ChatBot('Alpha')
-trainer = ListTrainer(bot)
-
-data = open('conversations.yml','r',encoding='utf-8').readline()
-
-trainer.train(data)
 
 
 def bot_reply():
     question = queryField.get()
-    answer = bot.get_response(question)
-    textarea.insert(END,'You: '+question+'/n/n')
-    textarea.insert(END,'Alpha: '+answer)
+    textarea.insert(END,'You: '+question+'\n\n')
+    textarea.insert(END,'Alpha: ')
     queryField.delete(0,END)
 
 
