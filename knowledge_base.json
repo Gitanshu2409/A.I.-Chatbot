@@ -99,6 +99,22 @@
     {
       "question": "What type of queries you can resolve",
       "answer": "I can resolve queries about: Fees,Curriculum,School rules etc"
+    },
+    {
+      "question": "Are there any optional subjects available, and how can students choose them",
+      "answer": "Yes, there are optional subjects avalaible,students can apply them by informing respective subject teachers"
+    },
+    {
+      "question": "what are the optional subjects",
+      "answer": "In the 9th standard the students are given choice between Hindi and Sanskrit.There is also choice for skill subjects such as AI,IT and Food Production"
+    },
+    {
+      "question": "How are assessments and grading conducted",
+      "answer": " the school uses a variety of assessment methods, including tests, projects, presentations, and class participation. Grading is usually based on a combination of these assessments, providing a well-rounded evaluation of a student's performance and progress."
+    },
+    {
+      "question": "Does the school offer any specialized programs, such as gifted education or special needs support?",
+      "answer": "Yes, the school provides specialized programs to cater to the needs of both gifted students and those with special needs. The school offers gifted education programs to challenge and nurture the talents of high-achieving students, as well as support services to ensure that all students can thrive academically."
     }
   ]
 }
