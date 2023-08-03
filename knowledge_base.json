@@ -123,6 +123,18 @@
     {
       "question": "What is the school affiliated with",
       "answer": "The school is affiliated with CBSE and DAV schools"
+    },
+    {
+      "question": "What is the uniform schedule of the school",
+      "answer": "The school has a fixed uniform schedule: \nMonday: All students are required to wear the complete school uniform, including the specified uniform shirt, pants/skirt, tie, blazer/jumper, and appropriate shoes.\nTuesday: Same as Monday, complete school uniform is mandatory.\nWednesday: House uniform\nThursday: Same as Monday, complete school uniform is mandatory.\nFriday: White uniform."
+    },
+    {
+      "question": "Are there any extracurricular activities integrated into the curriculum?",
+      "answer": "Yes, the school encourages students to participate in extracurricular activities as part of the curriculum. These activities can include sports, clubs, arts, and community service projects, providing students with opportunities to develop their leadership and teamwork skills."
+    },
+    {
+      "question": "What is the curriculum in the school?",
+      "answer": "The curriculum in the School is designed to provide a comprehensive education to students.\n It includes subjects such as Mathematics, English, Science, Social Studies, and Language Arts.\n Additionally, students have access to various elective courses to explore their interests and talents."
     }
   ]
 }
