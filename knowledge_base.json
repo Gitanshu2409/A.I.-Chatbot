@@ -26,15 +26,15 @@
     },
     {
       "question": "mukundpur",
-      "answer": "7,200"
+      "answer": "1,200"
     },
     {
       "question": "santnagar",
-      "answer": "5,200"
+      "answer": "2,240"
     },
     {
       "question": "jahangir puri",
-      "answer": "3,570"
+      "answer": "2,570"
     },
     {
       "question": "anand vihar",
@@ -42,7 +42,7 @@
     },
     {
       "question": "what is the admission fees?",
-      "answer": "200"
+      "answer": "500"
     },
     {
       "question": "What subjects are included in the school's curriculum?",
@@ -74,7 +74,7 @@
     },
     {
       "question": "how many teachers are there in the school?",
-      "answer": "Around 200"
+      "answer": "Around 100"
     },
     {
       "question": "how many students are there in the school?",
@@ -90,7 +90,7 @@
     },
     {
       "question": "Hi there",
-      "answer": "Hi.How can I help you "
+      "answer": "Hi,How can I help you "
     },
     {
       "question": "What can you do",
@@ -118,7 +118,7 @@
     },
     {
       "question": "what is the name of the school?",
-      "answer": "AGDAV pubic school?"
+      "answer": "Arvind Gupta DAV Centenary Public School?"
     },
     {
       "question": "What is the school affiliated with",
@@ -175,6 +175,38 @@
     {
       "question": "What are the articles restricted from school",
       "answer": "Weapons and Dangerous Objects: Any item that can be considered a weapon, such as firearms, knives, explosives, or other dangerous objects, is strictly restricted in schools.\n\nDrugs and Alcohol: Any form of illegal drugs, alcohol, or substances that can be abused is prohibited on school grounds.\n\nTobacco and Vaping Products: Schools usually have strict policies against tobacco products and e-cigarettes to promote a healthy and smoke-free environment.\n\nInappropriate Clothing: Clothing with offensive language, images, or symbols, or clothing that is overly revealing, may be restricted to maintain a suitable learning environment.\n\nGang-Related Attire: Clothing or accessories that display gang affiliations or symbols may be restricted to prevent conflicts and ensure a safe atmosphere.\n\nHate Speech and Offensive Material: Articles that promote hate speech, discrimination, or offensive materials are typically restricted to uphold a respectful and inclusive learning environment.\n\nElectronic Devices: Schools often have policies regarding the use of electronic devices like smartphones, tablets, or gaming devices during class hours to minimize distractions.\n\nGambling Materials: Items related to gambling, such as cards or gambling devices, are generally not allowed in schools.\n\nFireworks and Explosives: Any articles that can be used to create explosive devices or cause harm are strictly prohibited.\n\nAdult Content: Materials that contain explicit adult content, including pornography, are restricted in schools due to their inappropriate nature for the learning environment.\n\nChewing Gum: Some schools restrict chewing gum as it can cause mess and distraction.\n\nLaser Pointers: Laser pointers are often prohibited due to safety concerns, as they can be hazardous to eyesight.\n\nFood and Drink in Classrooms: In some schools, food and drinks may be restricted in classrooms to maintain cleanliness and minimize distractions.\n\nPersonal Electronic Equipment: Some schools may restrict personal laptops, tablets, or other electronic equipment to ensure uniformity and security of the school's technological infrastructure.\n\nSkates, Skateboards, and Hoverboards: Wheeled recreational devices may be restricted on school property due to safety concerns."
+    },
+    {
+        "question": "are the students provided any equipments for any sort of sports?",
+        "answer": "Yes, for students we have a large field with a basketball court, football area and we provide students with teachers for every sports, namely- basketball, football, cricket, volleyball, athletics."
+    },
+    {
+        "question": "at what time students have to reach school?",
+        "answer": "The school gates close sharply at 8:30."
+    },
+    {
+        "question": "what is the notebook scheme?",
+        "answer": "The students have to buy the notebooks from school only and the books too till 9th class."
+    },
+    {
+        "question": "what are the different subjects taught to students?",
+        "answer": "It dependes on witch classes are you talking about?, Is it 1st to 2nd or 3rd to 5th or 6th to 8th or 9th to 10th?"
+    },
+    {
+        "question": "1st to 2nd",
+        "answer": "English, Hindi, Mathematics, EVS"
+    },
+    {
+        "question": "3rd to 5th",
+        "answer": "English, Hindi, Mathematics, General Science, Social Science, Sanskrit (for class 5th)"
+    },
+    {
+        "question": "6th to 8th",
+        "answer": "English, Hindi, Mathematics, Science, Social Science, Sanskrit, Moral Science."
+    },
+    {
+        "question": "9th to 10th",
+        "answer": "English, Hindi/Sanskrit, Mathematics, Science, Social Science."
     }
   ]
 }
