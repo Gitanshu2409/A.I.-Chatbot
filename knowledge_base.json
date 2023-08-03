@@ -115,6 +115,14 @@
     {
       "question": "Does the school offer any specialized programs, such as gifted education or special needs support?",
       "answer": "Yes, the school provides specialized programs to cater to the needs of both gifted students and those with special needs. The school offers gifted education programs to challenge and nurture the talents of high-achieving students, as well as support services to ensure that all students can thrive academically."
+    },
+    {
+      "question": "what is the name of the school?",
+      "answer": "AGDAV pubic school?"
+    },
+    {
+      "question": "What is the school affiliated with",
+      "answer": "The school is affiliated with CBSE and DAV schools"
     }
   ]
 }
