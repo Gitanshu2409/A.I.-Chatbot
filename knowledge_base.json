@@ -1,8 +1,8 @@
 {
-  "question": [
+  "questions": [
     {
       "question": "Hello!",
-      "answer": "Hey there!"
+      "answer": "Hi"
     },
     {
       "question": "hey",
@@ -13,76 +13,92 @@
       "answer": "which class are you taking about? Is it for junior (1-5th class) or senior (6-12th class)?"
     },
     {
-        "question": "junior",
-        "answer": "2965 is the tution fee."
+      "question": "junior",
+      "answer": "2965 is the tuition fee."
     },
     {
-        "question": "senior",
-        "answer": "3140 is the tution fee."
+      "question": "senior",
+      "answer": "3140 is the tuition fee."
     },
     {
-        "question": "what is the transport fees?",
-        "answer": "it dependes on where you live? "
+      "question": "what is the transport fees?",
+      "answer": "it depends on where you live? "
     },
     {
-      "question": "burari",
-      "answer": "7,200" 
+      "question": "mukundpur",
+      "answer": "7,200"
     },
     {
-        "question": "bufrari",
-        "answer": "5,200" 
+      "question": "santnagar",
+      "answer": "5,200"
     },
     {
-        "question": "busrari",
-        "answer": "3,570" 
+      "question": "jahangir puri",
+      "answer": "3,570"
     },
     {
-        "question": "buhrari",
-        "answer": "1,438" 
+      "question": "anand vihar",
+      "answer": "1,438"
     },
     {
-      "question":  "what is the admission fees?",
-      "answer" : "200"
+      "question": "what is the admission fees?",
+      "answer": "200"
     },
     {
-        "question": "What subjects are included in the school's curriculum?",
-        "answer": "It dependes on which classyou are talking about but the overall subjhects are, science, hindi, sanskrit, sst and maths" 
+      "question": "What subjects are included in the school's curriculum?",
+      "answer": "It depends on which class you are talking about but the overall subjects are, science, hindi, sanskrit, sst and maths"
     },
     {
-        "question": "Are there any foreign language courses offered as part of the curriculum?",
-        "answer": "Yes, there is moral science but there are also paid clubs for the kinds from 5th to 8th class."   
+      "question": "Are there any foreign language courses offered as part of the curriculum?",
+      "answer": "Yes, there is moral science but there are also paid clubs for the kinds from 5th to 8th class."
     },
     {
-        "question": "What is the school's policy on homework and is it related to cbse?",
-        "answer": "The school tries to minimise the homework given to childrens and at the same time ensure that they are not deprived of enough knowledge, also we give all the activities provided to us by CBSE to make the subject more interactive." 
+      "question": "What is the school's policy on homework and is it related to cbse?",
+      "answer": "The school tries to minimise the homework given to children and at the same time ensure that they are not deprived of enough knowledge, also we give all the activities provided to us by CBSE to make the subject more interactive."
     },
     {
-        "question": "Are there any opportunities for students to pursue independent projects or research within the curriculum?",
-        "answer": "Yes, we provide student with a lot of tools and an ATL lab to help them int here project, and if the student wants to participate in any competitions they are free to do so, and we also provide students with monthly olympiads"
+      "question": "Are there any opportunities for students to pursue independent projects or research within the curriculum?",
+      "answer": "Yes, we provide student with a lot of tools and an ATL lab to help them int here project, and if the student wants to participate in any competitions they are free to do so, and we also provide students with monthly olympiads"
     },
     {
-        "question": "Can student wear anything other then the uniform?",
-        "answer": "We are very strict about dress code and other rules but in some special cases, say if the student is celebrating his/her birthday (until 8th class) they can wear any dress from home."
+      "question": "Can student wear anything other then the uniform?",
+      "answer": "We are very strict about dress code and other rules but in some special cases, say if the student is celebrating his/her birthday (until 8th class) they can wear any dress from home."
     },
     {
-        "question": "Are smart devices allowed in the school?",
-        "answer": "No, smart devices are strictly prhibited in our school, even smartwathes are also not allowed."
+      "question": "Are smart devices allowed in the school?",
+      "answer": "No, smart devices are strictly prohibited in our school, even smartwatches are also not allowed."
     },
     {
-        "question": "What is the exam sschedule?",
-        "answer": "For the classes below 3rd there is no exam, just normal test, and for the classes above the exams are divided into four parts, 1st in July of 20 marks, 2nd in September of 80 marks, 3rd in January of 20marks, and the final paper in February of 80marks."
+      "question": "What is the exam schedule?",
+      "answer": "For the classes below 3rd there is no exam, just normal test, and for the classes above the exams are divided into four parts, 1st in July of 20 marks, 2nd in September of 80 marks, 3rd in January of 20marks, and the final paper in February of 80marks."
     },
     {
-        "question": "how many teachers are there in the school?",
-        "answer": "Around 200"
+      "question": "how many teachers are there in the school?",
+      "answer": "Around 200"
     },
     {
-        "question": "how many students are there in the school?",
-        "answer": "The number always changes but the average strength of students over the years is 3,000 to 4,0000"
+      "question": "how many students are there in the school?",
+      "answer": "The number always changes but the average strength of students over the years is 3,000 to 4,0000"
     },
     {
-        "question": "are there any event or competitions organised in the school?",
-        "answer": "Yes there are atleast 3-4 competition organised per month!, and events are also organised as per any festival."
+      "question": "are there any event or competitions organised in the school?",
+      "answer": "Yes there are at least 3-4 competition organised per month!, and events are also organised as per any festival."
+    },
+    {
+      "question": "How are you",
+      "answer": "Good"
+    },
+    {
+      "question": "Hi there",
+      "answer": "Hi.How can I help you "
+    },
+    {
+      "question": "What can you do",
+      "answer": "I am a school query assistant chatbot.I may resolve your queries"
+    },
+    {
+      "question": "What type of queries you can resolve",
+      "answer": "I can resolve queries about: Fees,Curriculum,School rules etc"
     }
   ]
 }
