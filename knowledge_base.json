@@ -135,6 +135,40 @@
     {
       "question": "What is the curriculum in the school?",
       "answer": "The curriculum in the School is designed to provide a comprehensive education to students.\n It includes subjects such as Mathematics, English, Science, Social Studies, and Language Arts.\n Additionally, students have access to various elective courses to explore their interests and talents."
+    },
+    {
+      "question": "What is the uniform schedule of the school",
+      "answer": "The school has a fixed uniform schedule: \nMonday: All students are required to wear the complete school uniform, including the specified uniform shirt, pants/skirt, tie, blazer/jumper, and appropriate shoes.\nTuesday: Same as Monday, complete school uniform is mandatory.\nWednesday: House uniform\nThursday: Same as Monday, complete school uniform is mandatory.\nFriday: White uniform."
+    },
+    {
+      "question": "Are there any extracurricular activities integrated into the curriculum?",
+      "answer": "Yes, the school encourages students to participate in extracurricular activities as part of the curriculum. These activities can include sports, clubs, arts, and community service projects, providing students with opportunities to develop their leadership and teamwork skills."
+    },
+    {
+      "question": "Thank you for your help!",
+      "answer": "You're welcome! If you have any more questions, feel free to ask. Have a great day!"
+    },
+    {
+      "question": "What hygiene practices are being promoted at the school?",
+      "answer": "The school promotes various hygiene practices, including regular handwashing, covering coughs and sneezes, maintaining clean personal spaces, and proper waste disposal."
+    },
+    {
+      "question": "How often are the school facilities, such as restrooms and classrooms, cleaned and sanitized?",
+      "answer": "The school facilities, including restrooms and classrooms, are cleaned and sanitized daily to ensure a clean and hygienic environment for students and staff."
+    },
+    {
+      "question": "How does the school handle the disposal of waste and garbage to maintain hygiene?",
+      "answer": "The school follows proper waste disposal procedures, including having designated bins for different types of waste and ensuring regular waste collection and disposal."
+    },
+    {
+      "question": "Are there protocols in place for dealing with any health-related emergencies at the school?",
+      "answer": "Yes, the school has protocols in place to handle health-related emergencies, including first aid procedures and immediate access to medical assistance if needed."
+    },
+    {
+      "question": "Does the school provide access to clean drinking water throughout the campus?",
+      "answer": "Yes, the school provides access to clean drinking water through water fountains or water dispensers located throughout the campus."
     }
+  ]
+}
   ]
 }
